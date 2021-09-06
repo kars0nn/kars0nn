@@ -23,7 +23,7 @@
 ### I code mostly for fun and explore what I can do. I'm currently studying cyber security and networking at school. 
 ## Here is some more info:
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kars0nn&theme=blue-green)
+![stats](	https://github-readme-stats.vercel.app/api?username=kars0nn&theme=blue-green)
 
 
 <!--
