@@ -37,9 +37,9 @@
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Discord](https://img.shields.io/badge/%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/%20-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![YouTube](https://img.shields.io/badge/%20-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Discord](https://img.shields.io/badge/?style=for-the-badge&logo=discord&logoColor=white)
+![Instagram](https://img.shields.io/badge/?style=for-the-badge&logo=Instagram&logoColor=white)
+![YouTube](https://img.shields.io/badge/?style=for-the-badge&logo=YouTube&logoColor=white)
 
 
 
