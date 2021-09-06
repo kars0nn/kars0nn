@@ -22,7 +22,7 @@
 ##
 ### I code mostly for fun and explore what I can do. I'm currently studying cyber security and networking at school. 
 ## Here is some more info:
-
+#### Stats for public projects
 ![stats](	https://github-readme-stats.vercel.app/api?username=kars0nn&theme=blue-green)
 
 
