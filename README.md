@@ -25,7 +25,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ##
-### I code mostly for fun and explore what I can do. I'm currently studying cyber security and networking at school. 
+### I code mostly for fun to explore what I can do. I'm currently studying cyber security and networking at school. 
 ## Here is some more info:
 #### Stats for public projects
 ![stats](	https://github-readme-stats.vercel.app/api?username=kars0nn&theme=blue-green)
