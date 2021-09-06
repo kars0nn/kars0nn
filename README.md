@@ -28,6 +28,7 @@
 ## Here is some more info:
 #### Stats for public projects
 ![stats](	https://github-readme-stats.vercel.app/api?username=kars0nn&theme=blue-green)
+![chart](	https://starchart.cc/kars0nn/{repo}.svg)
 
 
 <!--
