@@ -1,4 +1,7 @@
-### Hi there 👋
+### Yo, i'm karson
+
+Languages I work on:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!--
 **kars0nn/kars0nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
