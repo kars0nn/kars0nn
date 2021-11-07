@@ -24,18 +24,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ##
-### I code mostly for fun to explore what I can do. I'm currently studying cyber security and networking at school. 
+### I code mostly for fun to explore what I can do. I'm currently studying cyber security and networking. 
 ## Here is some more info:
 #### Stats for public projects
 ![stats](	https://github-readme-stats.vercel.app/api?username=kars0nn&theme=blue-green)
 ##
-### Other platforms I use
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Hulu](https://img.shields.io/badge/hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
-![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Discord](https://img.shields.io/badge/%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/%20-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![YouTube](https://img.shields.io/badge/%20-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
