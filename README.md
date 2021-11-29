@@ -1,5 +1,4 @@
 ## Yo, i'm karson ![follow](https://img.shields.io/github/followers/kars0nn.svg?style=social&label=Follow&maxAge=2592000)
-##
 (almost) fullstack web developer, I make random websites and discord bots for fun. I work with a lot of data, I mostly use mongodb since it fits my need best. Most of my projects are private at the moment, but I will be making them public the older they get.
 ##
 ### Languages I work with:
