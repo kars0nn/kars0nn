@@ -3,7 +3,7 @@
 
 ## Contacts:
 
-Discord: karson#7362
+Discord: karson#1933
 
 ##
 ### Languages I work with:
