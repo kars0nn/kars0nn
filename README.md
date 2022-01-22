@@ -1,19 +1,16 @@
-## Yo, i'm karson ![follow](https://img.shields.io/github/followers/kars0nn.svg?style=social&label=Follow&maxAge=2592000)
-(almost) fullstack web developer, I make random websites and discord bots for fun. I work with a lot of data, I mostly use mongodb since it fits my need best. Most of my projects are private at the moment, but I will be making them public the older they get.
-
 ## Contacts:
 
 Discord: karson#1933
 
-##
-### Languages I work with:
+## Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-## Here is some more info:
+![TypeScript](https://img.shields.io/badge/typescript-323330.svg?style=for-the-badge&logo=typescript&logoColor=blue)
+![React](https://img.shields.io/badge/react-323330.svg?style=for-the-badge&logo=react&logoColor=61dafb)
+![HTML5](https://img.shields.io/badge/html5-323330.svg?style=for-the-badge&logo=html5&logoColor=orange)
+![Mongodb](https://img.shields.io/badge/mongodb-323330.svg?style=for-the-badge&logo=mongodb&logoColor=green)
+![Express](https://img.shields.io/badge/express-323330.svg?style=for-the-badge&logo=express&logoColor=259dff)
+![Node.js](https://img.shields.io/badge/node.js-323330.svg?style=for-the-badge&logo=node.js&logoColor=green)
+
+
 #### Stats for public projects
 ![stats](	https://github-readme-stats.vercel.app/api?username=kars0nn&theme=blue-green)
-##
