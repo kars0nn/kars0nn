@@ -14,3 +14,7 @@ Discord: karson#1933
 
 #### Stats for public projects
 ![stats](	https://github-readme-stats.vercel.app/api?username=kars0nn&theme=blue-green)
+
+
+## More about me:
+![comptiaitf+](https://images.credly.com/size/680x680/images/40d75658-d28b-4a28-8bff-bea3ab502778/ITF_2B_Logo_Certified.png)
