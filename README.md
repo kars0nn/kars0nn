@@ -17,4 +17,4 @@ Discord: karson#1933
 
 
 ## More about me:
-![comptiaitf+](https://images.credly.com/size/680x680/images/40d75658-d28b-4a28-8bff-bea3ab502778/ITF_2B_Logo_Certified.png)
+<img src="https://images.credly.com/size/680x680/images/40d75658-d28b-4a28-8bff-bea3ab502778/ITF_2B_Logo_Certified.png" width="60px" height="60px" />
