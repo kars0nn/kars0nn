@@ -1,6 +1,7 @@
 ## Contacts:
 
-Discord: karson#1933
+Discord: karson#0001
+Email: karson@hey.com
 
 ## Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
