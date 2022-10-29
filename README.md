@@ -1,6 +1,7 @@
 ## Contacts:
 
 Discord: karson#0001
+
 Email: karson@hey.com
 
 ## Technologies & Tools:
