@@ -1,6 +1,9 @@
+web developer. I just make things for fun.
+I don't like stuck up/rude people so if you're like that don't talk to me
+
 ## Contacts:
 
-Discord: karson#0001
+Discord: xqcow1
 
 ## Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -9,10 +12,6 @@ Discord: karson#0001
 ![HTML5](https://img.shields.io/badge/html5-323330.svg?style=for-the-badge&logo=html5&logoColor=orange)
 ![Express](https://img.shields.io/badge/express-323330.svg?style=for-the-badge&logo=express&logoColor=259dff)
 ![Node.js](https://img.shields.io/badge/node.js-323330.svg?style=for-the-badge&logo=node.js&logoColor=green)
-
-
-#### Stats for public projects
-![stats](	https://github-readme-stats.vercel.app/api?username=kars0nn&theme=blue-green)
 
 
 ## More about me:
