@@ -1,5 +1,5 @@
 web developer. I just make things for fun.
-I don't like stuck up/rude people so if you're like that don't talk to me
+I don't like stuck up/rude people so if you're like that don't talk to me or commit to my projects :D
 
 ## Contacts:
 
